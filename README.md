@@ -1,47 +1,45 @@
-# ☕ Java Programs
+# ☕ Java Programming Tasks
 
-A collection of beginner-friendly Java programs covering core programming concepts, arrays, searching algorithms, and problem-solving techniques.
+This repository contains beginner-friendly Java programming tasks demonstrating fundamental programming concepts and algorithms.
 
-## 📌 Programs Included
+## 📌 Tasks Included
 
-### 1. Print Array Elements
+### Task 1 – Print Array Elements
 - Prints all elements of an integer array using a `for` loop.
 - Demonstrates array traversal and indexing.
 
-### 2. Binary Search
+### Task 2 – Binary Search
 - Implements the Binary Search algorithm.
 - Searches for an element in a sorted array.
-- Returns the index if found; otherwise returns `-1`.
+- Returns the index if the element is found; otherwise returns `-1`.
+
+## 📂 Project Structure
+
+```
+Java-Tasks/
+│── Task1.java
+│── Task2.java
+└── README.md
+```
 
 ## 🚀 Technologies Used
 
 - Java
 - JDK 17+
-- VS Code / IntelliJ IDEA
-
-## 📂 Project Structure
-
-```
-Java-Programs/
-│── PrintArray.java
-│── BinarySearch.java
-└── README.md
-```
+- VS Code
 
 ## ▶️ How to Run
 
-### Compile
-
+Compile:
 ```bash
-javac PrintArray.java
-javac BinarySearch.java
+javac Task1.java
+javac Task2.java
 ```
 
-### Execute
-
+Run:
 ```bash
-java PrintArray
-java BinarySearch
+java Task1
+java Task2
 ```
 
 ## 📚 Concepts Covered
@@ -50,12 +48,7 @@ java BinarySearch
 - For Loop
 - Binary Search
 - Methods
-- Conditional Statements (`if-else`)
-- Time Complexity Basics
-
-## 🎯 Learning Goal
-
-This repository is created to practice Java programming fundamentals and improve problem-solving skills for coding interviews and technical assessments.
+- Conditional Statements
 
 ## 👨‍💻 Author
 
@@ -63,4 +56,4 @@ This repository is created to practice Java programming fundamentals and improve
 
 ---
 
-⭐ If you found this repository helpful, consider giving it a star!
+⭐ If you found this repository useful, consider giving it a star!
